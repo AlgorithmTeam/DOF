@@ -1,4 +1,4 @@
-package ray3d.render.renderer
+package dof.render.renderer
 {
 	import flash.display3D.Context3D;
 	

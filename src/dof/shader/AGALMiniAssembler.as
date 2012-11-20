@@ -8,7 +8,7 @@
 //	in accordance with the terms of the license agreement accompanying it.
 //
 // ================================================================================
-package ray3d.shader
+package dof.shader
 {
 	// ===========================================================================
 	//	Imports

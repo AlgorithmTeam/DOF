@@ -2,10 +2,10 @@ package
 {
 	import flash.display.Sprite;
 	import flash.events.Event;
-	import ray3d.render.Viewport;
-	import ray3d.space.primitive.Cube;
-	import ray3d.space.primitive.Plane;
-	import ray3d.space.primitive.Teapot;
+	import dof.render.Viewport;
+	import dof.space.primitive.Cube;
+	import dof.space.primitive.Plane;
+	import dof.space.primitive.Teapot;
 	
 	/**
 	 * ...这次一定要进行到最后

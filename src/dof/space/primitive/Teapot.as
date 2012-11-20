@@ -1,4 +1,4 @@
-package ray3d.space.primitive 
+package dof.space.primitive 
 {
 	/**
 	 * ...茶壶模型

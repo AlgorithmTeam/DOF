@@ -1,6 +1,6 @@
-package ray3d.space.scene
+package dof.space.scene
 {
-	import ray3d.space.primitive.IPrimitive;
+	import dof.space.primitive.IPrimitive;
 	
 	/**
 	 * ...

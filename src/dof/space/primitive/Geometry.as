@@ -1,4 +1,4 @@
-package ray3d.space.primitive
+package dof.space.primitive
 {
 	import flash.geom.Matrix3D;
 	

@@ -1,4 +1,4 @@
-package ray3d.space.camera 
+package dof.space.camera 
 {
 	import flash.geom.Matrix3D;
 	/**

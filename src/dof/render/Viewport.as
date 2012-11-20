@@ -1,4 +1,4 @@
-package ray3d.render
+package dof.render
 {
 	import flash.display.Sprite;
 	import flash.display.Stage3D;
@@ -13,15 +13,15 @@ package ray3d.render
 	import flash.geom.Matrix3D;
 	import flash.geom.Vector3D;
 	import flash.utils.getTimer;
-	import ray3d.math.Matrix44;
-	import ray3d.render.renderer.BasicRenderer;
-	import ray3d.render.renderer.IRenderer;
-	import ray3d.shader.AgalCode;
-	import ray3d.shader.AGALMiniAssembler;
-	import ray3d.space.camera.CameraBasic;
-	import ray3d.space.camera.lens.LensBasic;
-	import ray3d.space.primitive.IPrimitive;
-	import ray3d.space.scene.Scene;
+	import dof.math.Matrix44;
+	import dof.render.renderer.BasicRenderer;
+	import dof.render.renderer.IRenderer;
+	import dof.shader.AgalCode;
+	import dof.shader.AGALMiniAssembler;
+	import dof.space.camera.CameraBasic;
+	import dof.space.camera.lens.LensBasic;
+	import dof.space.primitive.IPrimitive;
+	import dof.space.scene.Scene;
 	
 	/**
 	 * ...

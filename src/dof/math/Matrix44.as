@@ -1,4 +1,4 @@
-package ray3d.math 
+package dof.math 
 {
 	/**
 	 * ...

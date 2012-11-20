@@ -2,7 +2,7 @@ package
 {
     import com.adobe.utils.AGALMiniAssembler;
     import com.adobe.utils.PerspectiveMatrix3D;
-	import ray3d.space.primitive.Teapot;
+	import dof.space.primitive.Teapot;
     //import com.adobe.viewsource.ViewSource;
     
     import flash.display.Sprite;

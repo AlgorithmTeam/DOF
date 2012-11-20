@@ -1,9 +1,9 @@
-package ray3d.space.camera.lens
+package dof.space.camera.lens
 {
 	import flash.display.Stage;
 	import flash.events.KeyboardEvent;
 	import flash.events.MouseEvent;
-	import ray3d.space.camera.CameraBasic;
+	import dof.space.camera.CameraBasic;
 	
 	/**
 	 * ...

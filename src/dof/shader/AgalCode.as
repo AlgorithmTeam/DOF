@@ -1,4 +1,4 @@
-package ray3d.shader 
+package dof.shader 
 {
 	import flash.display3D.Context3DProgramType;
 	import flash.utils.ByteArray;
