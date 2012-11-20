@@ -2,16 +2,17 @@ package
 {
 	import flash.display.Sprite;
 	import flash.events.Event;
-	import dof.render.Viewport;
-	import dof.space.primitive.Cube;
-	import dof.space.primitive.Plane;
-	import dof.space.primitive.Teapot;
+	
+	import dofold.render.Viewport;
+	import dofold.space.primitive.impl.Cube;
+	import dofold.space.primitive.impl.Teapot;
 	
 	/**
 	 * ...这次一定要进行到最后
 	 * Flash3D,我来了！
 	 * @author rayyee
 	 */
+	[SWF(width="800", height="600", frameRate="60")]
 	public class Main extends Sprite
 	{
 		private var _ray3d:Viewport;
@@ -29,7 +30,7 @@ package
 			removeEventListener(Event.ADDED_TO_STAGE, init);
 			// entry point
 			
-			_ray3d = new Viewport(800, 600,16);
+			_ray3d = new Viewport(800, 600, 16);
 			addChild(_ray3d);
 			var i:int, count:int = 10;
 			for (i = 0; i < count; i += 1)
