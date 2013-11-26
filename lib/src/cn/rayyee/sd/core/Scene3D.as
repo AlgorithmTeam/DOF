@@ -25,7 +25,7 @@ package cn.rayyee.sd.core
 	 */
 	public class Scene3D
 	{
-		[Embed(source="../../../../Katarina_Referee_TX_CM.dds.png")]
+		[Embed(source="../../../../katarina.dds.png")]
 		protected const TextureBitmap:Class;
 		private var context:Context3D;
 		private var program:Program3D;
